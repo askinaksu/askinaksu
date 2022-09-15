@@ -4,7 +4,7 @@
 - 💞️ I will collaborate on everything that helps people 
 - 📫 How to reach me...I dont have any contact info right now. 
 
-I'll change here when i feel creative
+I'll change here when i feel creative.
 
 <!---
 askinaksu/askinaksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
